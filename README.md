@@ -5,3 +5,4 @@ Sukkida 发布版本
 
 0.0.3@Alpha#PreviewChannel 预计增加的功能:
 - 自动更新.
+- 扫描文件夹歌曲
