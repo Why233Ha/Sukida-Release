@@ -3,5 +3,6 @@
   "versionCode": "2",
   "release_date": "2025-05-21",
   "download_url": "https://yourusername.github.io/repo/app-v1.0.1.exe",
-  "changelog": "https://github.com/Why233Ha/Sukida-Release/blob/0.0.2%40Alpha%23PreviewChannel/README.md"
+  "changelog": "https://github.com/Why233Ha/Sukida-Release/blob/0.0.2%40Alpha%23PreviewChannel/README.md",
+  "isLatest": true,
 }
